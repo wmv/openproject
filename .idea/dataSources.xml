@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="4249980178">
+    <data-source source="LOCAL" name="Rails openproject: production" uuid="2a01ae6d-4250-49d4-aed3-290efffd1c3f">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/openproject_production</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfdadfc5dfd9dfdedfcddfd8dfcfdfd9df9bdf98df99</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails openproject: development" uuid="b1beb19c-c7d2-45dc-a6f3-39812cba1fc2">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/openproject_development</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfdadfc5dfd9dfdedfcddfd8dfcfdfd9df9bdf98df99</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails openproject: test" uuid="c1b5ce34-3796-4806-9071-2fcad31347e4">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/openproject_test</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfdadfc5dfd9dfdedfcddfd8dfcfdfd9df9bdf98df99</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
